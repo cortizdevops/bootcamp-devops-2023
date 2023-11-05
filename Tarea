@@ -1,36 +1,45 @@
-Tareas para la semana 1
-Registrarse en AWS Skill Builder
+Tareas para la semana 1: Tome esta data del grupo 6 que estaba hiper ordenada
 
-Inscríbete en el juego de AWS Cloud Quest: Cloud Practitioner: Enlace
-Objetivo: obtener la insignia haciendo los desafíos del juego para prepararse para la primera certificación con AWS Cloud Practitioner.
-Si obtuviste la insignia, súbelo a LinkedIn.
-Nota: El curso Cloud Quest no está en español. Además, puedes filtrar contenido o recursos en español para aprender otros cursos en español.
+1-Registrarse en AWS Skill Builder -> https://explore.skillbuilder.aws/learn
 
-Registrarse en AWS Educate
+  1.1 - Incribirse en el juego de AWS Cloud Quest: Cloud Practitioner-> 
+        https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner
+  1.2 - Objetivo obtener la insignia haciendo los desafios del juego, para prepararse para la primera certificación con AWS 
+        particioner.
+  1.3 - Si obtuviste la insignia, subirla a linkedin.
 
-Busca en la plataforma en "Course Features". Hay 11 resultados de insignias; inscríbete en el curso 101.
-El curso consta de 7 módulos, y el objetivo es obtener la insignia del curso 101.
-Si obtuviste la insignia, súbelo a LinkedIn.
-Si deseas profundizar, puedes hacer otros cursos (opcional). Cuantos más cursos hagas, más puntos obtendrás para ayudarte a lograr la certificación.
-Nota: Los cursos se pueden hacer en español. Si ya tienes experiencia en AWS, no es necesario hacer los cursos; son más para principiantes.
+Nota:El curso cloud Quest no esta en español, aparte puedes filtrar contenido o recursos en español para aprender otros cursos en español.
 
-Instala en tu computadora o portátil:
+2-Registrarse en AWS educate --> https://aws.amazon.com/es/education/awseducate/
 
-Instala uno de estos dos programas: VMware o VirtualBox, dependiendo de tu sistema operativo.
-En el programa que instalaste en el punto anterior, crea una máquina virtual con una distribución de Linux. Se recomienda Ubuntu o Linux Mint.
-Si no cuentas con un buen equipo en tu casa, puedes usar máquinas virtuales por horas:
-KillerCoda (te da 60 minutos).
-Docker Play with Docker (te da 4 horas).
-Desafíos:
+ 2.1 - Buscar en la plataforma en "Course Features"--> Badge se muestran 11 resultados, inscribirse en el curso 101. 
+ 2.2 - El curso cuenta con 7 modulos, el objetivo es obtener la insignia del curso 101.
+ 2.3 - Si obtuviste la insignia, subirla a linkedin.
+ 2.4 - Si quiere profundizar, hacer los otros cursos(OPCIONAL), entre mas cursos hagas recibes puntos que te ayudan para lograr la
+       certificacón.
 
-Regístrate en el desafío Github
-Mejora tus habilidades de AWS con 3 laboratorios: Enlace
-Nota: Normalmente, estos laboratorios requieren una suscripción a AWS Skill Builder, pero puedes realizarlos GRATIS hasta el 31 de octubre.
+Nota: Los cursos se pueden hacer en español, si ya tienes experiencia en AWS no es necesario hacer los cursos, es mas para los 
+      principiantes.
 
-Instala Git en la máquina virtual.
+3- Instalar en tu computadora o portatil:
+   3.1 - Instalar alguno de estos 2 programas: VMware o VirtualBox, dependiendo de tu sistema operativo.
+   3.2 - En el programa que instalo en el punto anterior, crear una maquina virtual con una distrubición de Linux,
+         recomendaciones Ubuntu o Linux mind.
+   3.3 - Si no cuentas con buen equipo en tu casa, puedes usar maquinas virtuales por horas:
+         3.3.1 https://killercoda.com/ (te da 60 minutos).
+         3.3.2 https://www.docker.com/play-with-docker (te da 4 horas).
+   3.4 - Instala Git en la máquina virtual.
+   3.5 - Instala Visual Studio Code o Sublime Text en la máquina virtual.
 
-Aprende Git, ya que no se tratará en el curso y se cubrirán otros temas.
-Regístrate en GitHub o GitLab para trabajar colaborativamente.
-Instala Visual Studio Code o Sublime Text en la máquina virtual.
 
-Comienza a leer los 2 libros que se encuentran en este enlace, bajo el icono "The Devops Hand Book".
+4- Desafios:
+
+   4.1 Registrarse al desafio Githud --> https://learn.microsoft.com/es-es/training/challenges?id=ef5f9f41-0818-4895-9217-79d19827a322&ocid=GitHubUniv_CSC_event_nge
+   4.2 Elevar las habilidades de ASW con 3 laboratorios --> https://training.resources.awscloud.com/modern-apps-traincert/elevate-your-devops-skills-with-3-free-aws-builder-labs?trk=0cb51f95-97e9-4be8-bbe0-363d446de75f&sc_channel=el
+
+5.- Github
+    5.1 - Aprende Git, ya que no se tratará en el curso y se cubrirán otros temas.
+    5.2 - Regístrate en GitHub o GitLab para trabajar colaborativamente.
+                
+6.- Lectura de Libros Devops
+    6.1 - Comienza a leer los 2 libros que se encuentran en este enlace, bajo el icono "The Devops Hand Book".
